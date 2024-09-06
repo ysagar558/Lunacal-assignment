@@ -1,0 +1,168 @@
+.sideicon {
+  position: absolute;
+  margin-left: 50%;
+  width: Fixed (24px)px;
+  height: Hug (159.69px)px;
+  /* top: 116px; */
+  opacity: 0px;
+  margin-top: 30px;
+
+}
+
+.block1 {
+  display: block;
+  border-radius: 30px;
+  width: 200px;
+  background-color: white;
+
+}
+
+.block2 {
+  display: flex;
+  border-radius: 30px;
+}
+
+.btn1 {
+  position: absolute;
+  margin-left: 52%;
+  width: 195px;
+  margin-top: 30px;
+  height: 49px;
+  padding: 10px 24px 10px 24px;
+  border-radius: 16px;
+  opacity: 0px;
+  background-color: rgb(27, 27, 27);
+  color: white;
+
+}
+
+.btn2 {
+  position: absolute;
+  margin-left: 68%;
+  width: 195px;
+  margin-top: 30px;
+  height: 49px;
+  padding: 10px 24px 10px 24px;
+  border-radius: 16px;
+  opacity: 0px;
+  background-color: rgb(27, 27, 27);
+  color: white;
+
+
+}
+
+.btn3 {
+  position: absolute;
+  margin-left: 84%;
+  width: 195px;
+  margin-top: 30px;
+  height: 49px;
+  padding: 10px 24px 10px 24px;
+  border-radius: 16px;
+  opacity: 0px;
+  background-color: rgb(27, 27, 27);
+  color: white;
+
+
+}
+
+.btn1:hover {
+  background-color: rgb(40, 41, 47);
+}
+
+.btn2:hover {
+  background-color: rgb(40, 41, 47);
+}
+
+.btn3:hover {
+  background-color: rgb(40, 41, 47);
+}
+
+p {
+  position: absolute;
+  margin-left: 55%;
+  margin-top: 100px;
+  color: #969696;
+}
+
+.sideicon2 {
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 300px;
+}
+
+.btn4 {
+  position: absolute;
+  margin-left: 52%;
+  width: 149px;
+  height: 62px;
+  margin-top: 300px;
+  border-radius: 20px;
+  opacity: 0px;
+  background-color: rgb(27, 27, 27);
+  color: white;
+
+
+}
+
+.btn5 {
+  position: absolute;
+  margin-left: 70%;
+  margin-top: 302px;
+  width: 149px;
+  border-radius: 25px;
+  height: 55px;
+  opacity: 0px;
+  background-color: rgb(66, 72, 79);
+  color: white;
+}
+
+.arrow1 {
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 82%;
+  /* width: 45px;
+height: 45px; */
+  opacity: 0px;
+
+}
+
+.arrow2 {
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 88%;
+  /* width: 45px;
+height: 45px; */
+  opacity: 0px;
+
+}
+
+.img1 {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 52%;
+}
+
+.img2 {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 68%;
+}
+
+.img3 {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 84%;
+}
+
+.img1:hover {
+  opacity: 60%;
+}
+
+.img2:hover {
+  opacity: 60%;
+}
+
+.img3:hover {
+  opacity: 60%;
+}
